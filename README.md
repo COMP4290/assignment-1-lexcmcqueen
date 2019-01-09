@@ -16,7 +16,7 @@ If you are not familiar with Git, you will need to master the basics. There is a
 **Email me your GitHub user name immediately.**. To complete this, and all future assignments, I have to add you to our GitHub classroom.
 
 ### Problem 2
-(5 points) Create your repo by following this [link](https://classroom.github.com/a/Lamoq4HH).
+(5 points) Create your repo by following this [link](https://classroom.github.com/a/GawfOXiY).
 
 ### Problem 3
 (15 points)
